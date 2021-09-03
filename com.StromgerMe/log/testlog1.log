@@ -1,0 +1,74 @@
+2021-09-03 22:03:50,175 [main] INFO Guru99 - Url is opened
+2021-09-03 22:04:13,016 [main] INFO Guru99 - User name entered
+2021-09-03 22:04:13,152 [main] INFO Guru99 - Password entered
+2021-09-03 22:04:15,236 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:04:32,656 [main] INFO Guru99 - Login Passed
+2021-09-03 22:04:32,670 [main] INFO Guru99 - Url is opened
+2021-09-03 22:04:33,877 [main] INFO Guru99 - User name entered
+2021-09-03 22:04:34,098 [main] INFO Guru99 - Password entered
+2021-09-03 22:04:36,315 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:04:40,502 [main] INFO Guru99 - Url is opened
+2021-09-03 22:04:41,673 [main] INFO Guru99 - User name entered
+2021-09-03 22:04:41,893 [main] INFO Guru99 - Password entered
+2021-09-03 22:04:44,134 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:04:48,304 [main] INFO Guru99 - Url is opened
+2021-09-03 22:04:49,453 [main] INFO Guru99 - User name entered
+2021-09-03 22:04:49,661 [main] INFO Guru99 - Password entered
+2021-09-03 22:04:51,875 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:07:54,363 [main] INFO Guru99 - Url is opened
+2021-09-03 22:08:01,460 [main] INFO Guru99 - User name entered
+2021-09-03 22:08:01,593 [main] INFO Guru99 - Password entered
+2021-09-03 22:08:03,702 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:08:12,113 [main] INFO Guru99 - Login Passed
+2021-09-03 22:08:12,130 [main] INFO Guru99 - Url is opened
+2021-09-03 22:08:13,361 [main] INFO Guru99 - User name entered
+2021-09-03 22:08:13,568 [main] INFO Guru99 - Password entered
+2021-09-03 22:08:15,763 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:08:19,861 [main] WARN Guru99 - Login Passed
+2021-09-03 22:08:19,873 [main] INFO Guru99 - Url is opened
+2021-09-03 22:08:21,585 [main] INFO Guru99 - User name entered
+2021-09-03 22:08:21,804 [main] INFO Guru99 - Password entered
+2021-09-03 22:08:24,027 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:08:28,452 [main] WARN Guru99 - Login Passed
+2021-09-03 22:08:28,462 [main] INFO Guru99 - Url is opened
+2021-09-03 22:08:29,943 [main] INFO Guru99 - User name entered
+2021-09-03 22:08:30,168 [main] INFO Guru99 - Password entered
+2021-09-03 22:08:32,373 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:08:36,806 [main] WARN Guru99 - Login Passed
+2021-09-03 22:14:01,497 [main] INFO Guru99 - Url is opened
+2021-09-03 22:14:29,800 [main] INFO Guru99 - User name entered
+2021-09-03 22:14:39,949 [main] INFO Guru99 - Url is opened
+2021-09-03 22:14:43,682 [main] INFO Guru99 - User name entered
+2021-09-03 22:14:43,912 [main] INFO Guru99 - Password entered
+2021-09-03 22:14:46,063 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:14:48,930 [main] WARN Guru99 - Login Passed
+2021-09-03 22:14:50,090 [main] INFO Guru99 - Url is opened
+2021-09-03 22:14:51,274 [main] INFO Guru99 - User name entered
+2021-09-03 22:14:51,456 [main] INFO Guru99 - Password entered
+2021-09-03 22:14:53,664 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:14:56,557 [main] WARN Guru99 - Login Passed
+2021-09-03 22:14:57,720 [main] INFO Guru99 - Url is opened
+2021-09-03 22:14:58,851 [main] INFO Guru99 - User name entered
+2021-09-03 22:14:59,072 [main] INFO Guru99 - Password entered
+2021-09-03 22:15:01,288 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:15:03,839 [main] WARN Guru99 - Login Passed
+2021-09-03 22:16:00,081 [main] INFO Guru99 - Url is opened
+2021-09-03 22:16:17,272 [main] INFO Guru99 - User name entered
+2021-09-03 22:16:17,397 [main] INFO Guru99 - Password entered
+2021-09-03 22:16:19,488 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:16:26,490 [main] INFO Guru99 - Login Passed
+2021-09-03 22:16:31,512 [main] INFO Guru99 - Url is opened
+2021-09-03 22:16:32,789 [main] INFO Guru99 - User name entered
+2021-09-03 22:16:32,992 [main] INFO Guru99 - Password entered
+2021-09-03 22:16:35,136 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:16:37,684 [main] WARN Guru99 - Login Passed
+2021-09-03 22:16:39,854 [main] INFO Guru99 - Url is opened
+2021-09-03 22:16:41,946 [main] INFO Guru99 - User name entered
+2021-09-03 22:16:42,163 [main] INFO Guru99 - Password entered
+2021-09-03 22:16:44,357 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:16:46,896 [main] WARN Guru99 - Login Passed
+2021-09-03 22:16:48,383 [main] INFO Guru99 - Url is opened
+2021-09-03 22:16:49,598 [main] INFO Guru99 - User name entered
+2021-09-03 22:16:49,819 [main] INFO Guru99 - Password entered
+2021-09-03 22:16:52,040 [main] INFO Guru99 - Clicking on Login button
+2021-09-03 22:16:54,915 [main] WARN Guru99 - Login Passed
